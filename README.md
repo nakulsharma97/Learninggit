@@ -1,2 +1,2 @@
 # Learninggit
-Learning git.
+Learning git from apna college .
